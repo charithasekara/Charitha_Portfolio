@@ -362,7 +362,7 @@ export const portfolio = [
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
+        title: 'Distribution : ',
         desc: 'Fiver',
       },
       {
@@ -378,29 +378,33 @@ export const portfolio = [
     ],
   },
 
-  // {
-  //   id: 5,
-  //   img: Work5,
-  //   title: 'Landing Page',
-  //   details: [
-  //     {
-  //       title: 'Project : ',
-  //       desc: 'Website',
-  //     },
-  //     {
-  //       title: 'Client : ',
-  //       desc: 'Dribble',
-  //     },
-  //     {
-  //       title: 'Language : ',
-  //       desc: 'React JS, Node JS',
-  //     },
-  //     {
-  //       title: 'Preview : ',
-  //       desc: 'www.dribble.com',
-  //     },
-  //   ],
-  // },
+  {
+    id: 5,
+    img: Work5,
+    title: 'Employee Audit Managment App',
+    details: [
+      {
+        icon: <FiFileText />,
+        title: 'Project : ',
+        desc: 'Employee Audit Management App UI',
+      },
+      {
+        icon: <FiUser />,
+        title: 'Distribution : ',
+        desc: 'Individual',
+      },
+      {
+        icon: <FaCode />,
+        title: 'Technologies : ',
+        desc: 'Figma',
+      },
+      {
+        icon: <TbBrandFiverr />,
+        title: 'Figma : ',
+        desc: 'https://shorturl.at/rHLN8',
+      },
+    ],
+  },
 
   // {
   //   id: 6,
